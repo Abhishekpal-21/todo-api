@@ -4,4 +4,6 @@ const port =  9000;
  
 app.listen(port, () => {
     console.log("Server is running at port 9000");
+    
+    console.log("Hello World");
 });
